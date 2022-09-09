@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D7BF44FA-FF2F-4309-B49C-75964EFA94FA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UDPServer.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="UDPServer.cs" Line="72" Column="46" />
+      <File FileName="GroupServer.cs" Line="19" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobaServer" expanded="True">
+            <Node name="MobaServer" expanded="True">
+              <Node name="UDPServer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MobaServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer\bin\Debug\MobaServer.exe.config
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer\bin\Debug\MobaServer.exe
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer\bin\Debug\MobaServer.pdb
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer\obj\Debug\MobaServer.csprojAssemblyReference.cache
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer\obj\Debug\MobaServer.csproj.CoreCompileInputs.cache
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer\obj\Debug\MobaServer.exe
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer\obj\Debug\MobaServer.pdb
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\bin\Debug\MobaServer.exe.config
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\bin\Debug\MobaServer.exe
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\bin\Debug\MobaServer.pdb
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\obj\Debug\MobaServer.csproj.AssemblyReference.cache
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\obj\Debug\MobaServer.csproj.SuggestedBindingRedirects.cache
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\obj\Debug\MobaServer.csproj.CoreCompileInputs.cache
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\obj\Debug\MobaServer.exe
+F:\yhm\hanshi\NETProject\MobaServer\MobaServer0904\obj\Debug\MobaServer.pdb
